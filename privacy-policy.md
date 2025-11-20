@@ -18,7 +18,7 @@ This privacy statement describes in plain English what data we gather, how we us
 - **Support Emails:** knarlix@jarvibeta.xyz, help@jarvibeta.xyz
 
 ### Official Domains
-- **UI Website (Vite react):** https://dreamer.jarvibeta.xyz
+- **UI Website (nextJS):** https://dreamer.jarvibeta.xyz
 - **Backend & OAuth (nodeJS):** https://srv.dreamer.jarvibeta.xyz
 - **Discord auth (nextJS):** https://auth.dreamer.jarvibeta.xyz
 
