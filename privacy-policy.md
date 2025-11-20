@@ -140,9 +140,9 @@ Dreamer Helper is exclusively intended for Discord users.  Users under the age o
 
 ## 12. Guidelines
 Here are some guidelines for data deletion and verification:
-- [verify via web portal](/guide?type=web_verify)
-- [verify via bot command](/guide?type=cmd_verify)
-- [Data deletion guide](/guide?type=data_dlt)
+- [verify via web portal](/guide?topic=web_verify)
+- [verify via bot command](/guide?topic=cmd_verify)
+- [Data deletion guide](/guide?topic=data_dlt)
 
 These instructions give users a clear understanding of the procedure.
 
