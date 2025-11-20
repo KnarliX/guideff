@@ -23,13 +23,13 @@ Take away access through your Google account  You can take away access from the 
 ### 2. Instant Data Erasure: (**<span style="color:green;">Recommended</span>**)
 
 1. In the Dreamer's Land Discord server, use the Dreamer Helper bot's `/verify` command. If you have been verified, an embed message with a *Delete Data* button will show up, as shown below.
-![Delete Data](/cdn/guide/img/dlt-cmd.avif)
+![Delete Data](https://raw.githubusercontent.com/KnarliX/guideff/refs/heads/main/img/dlt-cmd.avif)
 
 2. To be sure, click the **<span style="color:red;">DELETE DATA</span>** button.
-![Confirm Deletion](/cdn/guide/img/dlt-confirmation.avif)
+![Confirm Deletion](https://raw.githubusercontent.com/KnarliX/guideff/refs/heads/main/img/dlt-confirmation.avif)
 
 3. Your data will be permanently deleted after it is finished, and a message verifying the *unverify action* will show up in the server's logs channel.
-![Logs Message](/cdn/guide/img/dlt-log.avif)
+![Logs Message](https://raw.githubusercontent.com/KnarliX/guideff/refs/heads/main/img/dlt-log.avif)
 
 ---
 
